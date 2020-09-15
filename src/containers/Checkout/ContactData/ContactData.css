@@ -6,6 +6,9 @@
     border: 1px solid #eee;
     padding: 10px;
     box-sizing: border-box;
+    color: #F8C471 ;
+    background-color: #34495E ;
+
 }
 
 @media (min-width: 600px) {
